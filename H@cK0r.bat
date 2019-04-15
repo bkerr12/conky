@@ -1,3 +1,4 @@
+:this tool can hack the nsa. use with caution.
 :put targets in ip-addresses.txt
 nmap -iL ip-addresses.txt
 
