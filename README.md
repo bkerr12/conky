@@ -1,2 +1,2 @@
 # conky
-this is a collection fun little programs made by me. 
+this is a collection of tools made by me. 
